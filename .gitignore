@@ -1,0 +1,14 @@
+# Binaries
+main
+*.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+vendor/
+
+# Environment variables
+.env
+
